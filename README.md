@@ -1,5 +1,3 @@
----
-
 # 📘 AWS Lambda Function Setup Guide (Learning Purpose)
 
 This guide will walk you through creating two separate AWS Lambda functions using the AWS Console.
