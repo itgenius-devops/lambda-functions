@@ -2,7 +2,7 @@
 
 This guide will walk you through creating two separate AWS Lambda functions using the AWS Console.
 
-> ✅ **NOTE**: For real-world scenarios, NEVER use `AdministratorAccess` on Lambda roles. This is for **learning purposes only**.
+> ✅ **NOTE**: For real-world scenarios, NEVER use `AdministratorAccess Policy` on Lambda roles. This is for **learning purposes only**.
 
 ---
 
